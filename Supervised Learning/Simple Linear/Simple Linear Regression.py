@@ -4,7 +4,7 @@ Created on Tue May  1 14:19:45 2018
 
 @author: tresorom
 """
-#Simple Linear Regression Exercice
+
 
 import numpy as np
 import matplotlib.pyplot as plt 
